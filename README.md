@@ -40,4 +40,4 @@ I enjoy building projects, exploring technology, and learning something new ever
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/ppetchimuthu442
-- LinkedIn: linkedin.com/in/petchimuthu-m-a1ba1143a
+- LinkedIn: https://linkedin.com/in/petchimuthu-m-a1ba1143a
