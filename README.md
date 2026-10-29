@@ -26,11 +26,7 @@
 
 ## 🚀 Projects
 - **Sports Academy Management System** — Web application using HTML, CSS, JavaScript, Python Flask, and MySQL.
-- **Digital Portfolio** — Personal portfolio website.
 - More projects and coding practice coming soon!
-
-## 📜 Certifications
-- Add your completed certifications here.
 
 ## 🤝 Soft Skills
 - Problem-solving
